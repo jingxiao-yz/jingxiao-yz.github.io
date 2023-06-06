@@ -6,7 +6,7 @@
   <link href="https://jingxiao-yz.github.io/atom.xml" rel="self"/>
   
   <link href="https://jingxiao-yz.github.io/"/>
-  <updated>2023-06-06T14:47:03.975Z</updated>
+  <updated>2023-06-06T17:02:44.775Z</updated>
   <id>https://jingxiao-yz.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://jingxiao-yz.github.io/2023/06/06/offer100/"/>
     <id>https://jingxiao-yz.github.io/2023/06/06/offer100/</id>
     <published>2023-06-06T10:30:42.000Z</published>
-    <updated>2023-06-06T14:47:03.975Z</updated>
+    <updated>2023-06-06T17:02:44.775Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="剑指offer"><a href="#剑指offer" class="headerlink" title=" 剑指offer"></a><center> <a href="https://leetcode.cn/studyplan/coding-interviews-special/">剑指offer</a></center></h1><h3 id="剑指-Offer-II-001-整数除法"><a href="#剑指-Offer-II-001-整数除法" class="headerlink" title="剑指 Offer II 001. 整数除法"></a><a href="https://leetcode.cn/problems/xoh6Oh/?envType=study-plan-v2&envId=coding-interviews-special">剑指 Offer II 001. 整数除法</a></h3><p>类似tcp慢开始的过程，注意处理溢出</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="剑指offer"><a href="#剑指offer" class="headerlink" title=" 剑指offer"></a><center> <a href="https://leetcode.cn/studyplan/coding-interviews-special/">剑指offer</a></center></h1><h2 id="整数"><a href="#整数" class="headerlink" title="整数"></a><center>整数</center></h2><h3 id="剑指-Offer-II-001-整数除法"><a href="#剑指-Offer-II-001-整数除法" class="headerlink" title="剑指 Offer II 001. 整数除法"></a><a href="https://leetcode.cn/problems/xoh6Oh/?envType=study-plan-v2&envId=coding-interviews-special">剑指 Offer II 001. 整数除法</a></h3><p>类似tcp慢开始的过程，注意处理溢出</p><h3 id="剑指-Offer-II-002-二进制加法"><a href="#剑指-Offer-II-002-二进制加法" class="headerlink" title="剑指 Offer II 002. 二进制加法"></a><a href="https://leetcode.cn/problems/JFETK5/?envType=study-plan-v2&envId=coding-interviews-special">剑指 Offer II 002. 二进制加法</a></h3><p>模拟加法过程</p><h3 id="剑指-Offer-II-003-前-n-个数字二进制中-1-的个数"><a href="#剑指-Offer-II-003-前-n-个数字二进制中-1-的个数" class="headerlink" title="剑指 Offer II 003. 前 n 个数字二进制中 1 的个数"></a><a href="https://leetcode.cn/problems/w3tCBm/">剑指 Offer II 003. 前 n 个数字二进制中 1 的个数</a></h3><p>动规，加二进制与奇偶性</p>]]></content>
     
     
       
